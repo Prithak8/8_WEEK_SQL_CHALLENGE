@@ -46,33 +46,43 @@ The final members table captures the join_date when a customer_id joined the bet
 Each of the following case study questions can be answered using a single SQL statement:
 
 1) What is the total amount each customer spent at the restaurant?
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/4654bc1b-c9cc-4e70-9cd0-3f46f86b5d34)
 
 2) How many days has each customer visited the restaurant?
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/3ab64aa1-ccf4-4e58-9710-201540ae467b)
 
 3) What was the first item from the menu purchased by each customer?
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/700e6de2-699b-466a-94eb-31d6ddacc320)
 
 4) What is the most purchased item on the menu and how many times was it purchased by all customers?
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/24e3a753-7fc1-4ece-bb1d-7eb5364c4e28)
 
 5) Which item was the most popular for each customer?
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/4b3dad0f-3030-4e24-97c1-8c5a7e077ac2)
 
 6) Which item was purchased first by the customer after they became a member?
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/4b08bc21-08f3-4454-b940-dc2532847d9d)
 
 7) Which item was purchased just before the customer became a member?
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/2916f5b5-eb4f-4e76-8ee0-b6416be04be3)
 
 8) What is the total items and amount spent for each member before they became a member?
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/98348564-399c-4bbd-95bf-a16f77d2c10f)
 
 9) If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/ec0116fc-b2fb-47d9-ac54-c37c3ae347d5)
 
 10) In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/484c6c87-b510-4e7e-acc4-668ac21c2e18)
 
 
@@ -81,14 +91,18 @@ Join All The Things
 The following questions are related creating basic data tables that Danny and his team can use to quickly derive insights without needing to join the underlying tables using SQL.
 
 ## Recreate the following table output using the available data:
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/fab7a38f-22fe-4750-a303-ebe778fbe270)
 
 My Output:
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/7c609ab1-3c90-4308-8671-d4d897778b68)
 
 ## Rank All The Things
 Danny also requires further information about the ranking of customer products, but he purposely does not need the ranking for non-member purchases so he expects null ranking values for the records when customers are not yet part of the loyalty program.
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/c1f69655-31c6-4127-a963-81f9ae656eff)
 
 My Output:
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/71fddcf1-4813-4823-8011-40105d007dc1)
