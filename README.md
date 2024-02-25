@@ -2,6 +2,10 @@
 
 This repository consists of 8 SQL challenges in total from Danny Ma.
 
+Challenge Website:
+https://8weeksqlchallenge.com/
+
+
 ## Case Studies:
 
 Case Study #1 - Danny’s Diner
@@ -20,5 +24,3 @@ Case Study #7 - Balanced Tree Clothing Co.
 
 Case Study #8 - Fresh Segments
 
-Challenge Website:
-https://8weeksqlchallenge.com/
