@@ -81,42 +81,100 @@ Pizza Metrics
 
 How many pizzas were ordered?
 
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/1d07e3c6-cc6c-42cd-be62-fb558b816921)
 
 
 How many unique customer orders were made?
 
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/d8f94abe-d015-47cf-af78-260479381d41)
+
+
 How many successful orders were delivered by each runner?
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/a3d98539-1c4b-4958-afaa-a921963c26a5)
+
 
 How many of each type of pizza was delivered?
 
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/e21eaaee-cea5-43fe-af58-f97bf6a7244d)
+
+
 How many Vegetarian and Meatlovers were ordered by each customer?
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/0d48fe72-aca8-49ca-8a0c-9cb081efc6db)
+
 
 What was the maximum number of pizzas delivered in a single order?
 
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/b55e1bfa-2bdb-4c3e-98dd-acb3cb55f520)
+
+
 For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/5ba96edb-10ee-441f-aa74-0967fc39fa9f)
+
+
 
 How many pizzas were delivered that had both exclusions and extras?
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/4efc0fd4-0907-4bd3-a742-00da9a2c7e34)
+
+
 What was the total volume of pizzas ordered for each hour of the day?
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/86479cde-9498-4e29-b2d6-ed302fdc4968)
+
+
 What was the volume of orders for each day of the week?
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/7691cd36-95e8-4a95-b0c1-acdb84cd94d4)
 
 
 ## B. Runner and Customer Experience
 
 How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/24d05707-0805-4ce2-a155-266729ecc644)
+
+
 What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/6a7e86ba-17c3-4731-8d67-bccce1efdc68)
+
 
 Is there any relationship between the number of pizzas and how long the order takes to prepare?
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/476e9fea-6ef2-4ca1-ad35-1b2ce3d5ed94)
+
+
 What was the average distance travelled for each customer?
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/97641326-c1e1-446b-bb27-70fdcea9c765)
+
 
 What was the difference between the longest and shortest delivery times for all orders?
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/1695f058-6c0d-4301-815a-6213a79e2a08)
+
+
 What was the average speed for each runner for each delivery and do you notice any trend for these values?
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/66590c9e-8d79-4e37-b1ab-1338132c0e90)
+
+
 What is the successful delivery percentage for each runner?
+
+
 
 
 
