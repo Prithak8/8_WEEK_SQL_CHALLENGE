@@ -157,23 +157,27 @@ Is there any relationship between the number of pizzas and how long the order ta
 What was the average distance travelled for each customer?
 
 
-![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/97641326-c1e1-446b-bb27-70fdcea9c765)
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/b571885d-c2e0-4824-9814-fe7e573a96ca)
 
 
 What was the difference between the longest and shortest delivery times for all orders?
 
 
-![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/1695f058-6c0d-4301-815a-6213a79e2a08)
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/84154f67-97a4-40be-adc7-550b79715fb6)
+
 
 
 What was the average speed for each runner for each delivery and do you notice any trend for these values?
 
 
-![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/66590c9e-8d79-4e37-b1ab-1338132c0e90)
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/a16d713a-1610-47cc-b3a8-e29977a32060)
 
 
 What is the successful delivery percentage for each runner?
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/b8bf5db8-40d6-486b-ad42-95ca6d58dbfc)
 
 
 
@@ -182,38 +186,84 @@ What is the successful delivery percentage for each runner?
 
 What are the standard ingredients for each pizza?
 
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/bfef8ec7-91fa-4073-8a62-1d522bd8e43c)
+
+
 What was the most commonly added extra?
 
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/b5c79962-a050-4f95-b4f9-cb406c7462a5)
+
+
+
 What was the most common exclusion?
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/4831b5b7-c9c7-4bb6-a73c-9c1b2f955899)
+
 
 Generate an order item for each record in the customers_orders table in the format of one of the following:
 
 Meat Lovers
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/dc521e9c-92cf-4125-8a43-dfd5a0f19717)
+
+
 Meat Lovers - Exclude Beef
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/ff6e22de-2a8e-47d3-978b-64bd8e79dc3e)
+
 
 Meat Lovers - Extra Bacon
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/dfcd1ded-c698-4b54-93c7-148e59e9fff6)
+
+
 Meat Lovers - Exclude Cheese, Bacon - Extra Mushroom, Peppers
 
-Generate an alphabetically ordered comma separated ingredient list for each pizza order from the customer_orders table and add a 2x in front of any 
-relevant ingredients
 
-For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/23eef2f7-94f2-4650-9429-43a79b16cbd1)
+
+
 
 What is the total quantity of each ingredient used in all delivered pizzas sorted by most frequent first?
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/9dba4833-30b0-4343-9b16-dcfd23871ae2)
 
 
 ## D. Pricing and Ratings
 
 If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/b9231cae-7639-4582-af12-3eb6570fdb62)
+
+
 What if there was an additional $1 charge for any pizza extras?
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/fe9daeb1-b585-4183-afe8-55aa37ad2eab)
+
 
 Add cheese is $1 extra
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/f6b03437-4f87-4f75-9e8d-a190455237b1)
+
+
 The Pizza Runner team now wants to add an additional ratings system that allows customers to rate their runner, how would you design an additional table for this new dataset - generate a schema for this new table and insert your own data for ratings for each successful customer order between 1 to 5.
+
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/96c7a6e3-fa6e-4f86-ad25-af65b4c652bb)
+
 
 Using your newly generated table - can you join all of the information together to form a table which has the following information for successful deliveries?
 
@@ -236,7 +286,15 @@ Average speed
 
 Total number of pizzas
 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/f67ed42c-53fb-4258-9107-2765fe2f2940)
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/3e7f1c16-92d8-43fb-a753-d1ff55c5f3c9)
+
+
 If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for extras and each runner is paid $0.30 per kilometre traveled - how much money does Pizza Runner have left over after these deliveries?
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/8101e29d-1503-4971-baa0-4068cf3c8dd5)
 
 
 ## E. Bonus Questions
@@ -244,6 +302,13 @@ If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for 
 If Danny wants to expand his range of pizzas - how would this impact the existing data design? Write an INSERT statement to demonstrate what would happen 
 
 if a new Supreme pizza with all the toppings was added to the Pizza Runner menu?
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/dc42f066-0092-4d8f-acd4-0e388815cc97)
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/16205a3a-7ad7-4cfe-90a3-e93cddc085b4)
+
 
 
 # Thank You
