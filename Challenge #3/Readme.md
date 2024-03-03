@@ -11,4 +11,5 @@ Danny has shared the data design for Foodie-Fi and also short descriptions on ea
 All datasets exist within the foodie_fi database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
 
 
+
 ![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/94bfe43b-2f28-4f73-be55-18486641ad8a)
