@@ -1,4 +1,9 @@
-Case Study 2 - Pizza Runner
+
+# Case Study #2 - Pizza Runner
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/fcae3867-ba2e-4dc4-a41d-92516c8d01b2)
+
 
 # Introduction
 
