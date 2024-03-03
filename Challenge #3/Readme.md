@@ -1,6 +1,7 @@
 # Case Study #3
 
-![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/a7f7b795-2902-4fb8-99f2-e52701337ce3)
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/8d30e462-0f41-4894-8851-a7492c7a0aec)
 
 
 Introduction
