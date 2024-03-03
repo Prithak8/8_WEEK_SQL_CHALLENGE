@@ -1,4 +1,9 @@
+
 # Case Study 1 - Danny's Diner
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/ae516b2a-27b0-4b8a-9f87-0f091b98bff6)
+
 
 ## Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
