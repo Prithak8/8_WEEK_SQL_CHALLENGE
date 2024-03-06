@@ -24,3 +24,4 @@ Case Study #7 - Balanced Tree Clothing Co.
 
 Case Study #8 - Fresh Segments
 
+
