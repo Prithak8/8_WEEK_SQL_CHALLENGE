@@ -31,6 +31,55 @@ Based off the 8 sample customers provided in the sample from the subscriptions t
 Try to keep it as short as possible - you may also want to run some sort of join to make your explanations a bit easier!
 
 
+-- selecting 8 sample customer:
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/eeaaa291-6e9b-49a0-b25c-8c0ca41a90c9)
+
+
+-- CUSTOMERS WHO HAVE TRIED "TRAIL" PLAN BEFORE COMMITING TO PAID SUBSCRIPTIONS
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/2a7b90c9-919b-4373-88a6-e2ec42e211c6)
+
+
+      # FROM THIS QUERY IT IS CLEARLY VISIBLE TO US THAT ALL THE CUSTOMERS
+        # HAVE SUBSCRIBED FOR TRIAL VERSION BEFORE DOING ANYTHING ELSE
+
+
+-- CUSTOMERS WHO HAVE CHURNED
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/fa0dfd37-7fac-460e-b9a9-cfe0980bcaca)
+
+          ** OUT OF EIGHT CUSTOMERS, 2 OF THEM HAVE ENDED UP CHURNING AFTER SOMETIME
+        ## IT IS 25% OF OUR TOTAL SAMPLE CUSTOMERS
+
+
+-- TOTAL SPENDING OF EACH CUSTOMERS
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/5a17fd53-2b56-4ca5-bca8-ccaca2f04702)
+
+
+* FROM THIS TABLE IT IS CLEARLY VISIBLE THAT PEOPLE SPENDITURE RANGES
+        # FROM 9.90 TO 199.00
+
+
+-- AVERAGE SPENDING OF OUR EIGHT CUSTOMERS:
+
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/35c95b7f-bd29-4e79-ae5f-440c67113200)
+
+    #	FROM THIS QUERY, WE FIND OUT THAT THE AVERAGE SPENDING OF CUSTOMER IS 38.51 
+
+
+-- MOST COMMONLY USED PLAN 
+
+![image](https://github.com/Prithak8/8_WEEK_SQL_CHALLENGE/assets/109690999/871940c8-9c3a-4718-ab91-f7c81c5fa762)
+
+* FROM THIS QUERY IT IS VISIBLE THAT TRIAL IS THE MOST USED PACKAGE
+		## WIITH BASIC MONTHLY BEING A CLOSE SECOND
+
+
+  
 ## B. Data Analysis Questions
 
 
