@@ -8,13 +8,13 @@ https://8weeksqlchallenge.com/
 
 ## Case Studies:
 
-Case Study #1 - Danny’s Diner
+Case Study #1 - Danny’s Diner (Completed :)
 
-Case Study #2 - Pizza Runner
+Case Study #2 - Pizza Runner (Completed :)
 
-Case Study #3 - Foodie-Fi
+Case Study #3 - Foodie-Fi (Completed :)
 
-Case Study #4 - Data Bank
+Case Study #4 - Data Bank (In Progress)
 
 Case Study #5 - Data Mart
 
