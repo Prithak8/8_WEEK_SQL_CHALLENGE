@@ -134,3 +134,5 @@ With the transaction analysis - prepare a 1 page presentation slide which contai
 ## Conclusion
 This case study aims to mimic traditional banking style transactions data but with a twist - hopefully it can give you some insight into the types of datasets you might encounter in a customer banking scenario.
 
+
+
